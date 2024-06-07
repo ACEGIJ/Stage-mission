@@ -11,3 +11,5 @@ space bar 연타시 더 높은 점프, 더 느린 낙하 가능
 재시작 : r key
 
 개발자 최고 기록 : 240초
+
+게임 다운로드 링크 : https://drive.google.com/file/d/10VaZz8mMO6TaiTpDm3HsoL5KXow3sBtN/view?usp=drive_link
